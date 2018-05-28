@@ -13,7 +13,32 @@ import Cocoa
 import PlaygroundSupport
 
 // Create canvas
-let canvas = Canvas(width: 400, height: 300)
+//let canvas = Canvas(width: 400, height: 300)
+//var x = Int
+//x = 100
+
+//canvas.drawLine(fromX: 0, fromY: 0, toX: x, toY: 0)
+//canvas.translate(byX: x, byY: 0)
+//canvas.rotate(by: 120)
+
+//canvas.drawLine(fromX: 0, fromY: 0, toX: x, toY: 0)
+//canvas.translate(byX: x, byY: 0)
+//canvas.rotate(by: 120)
+
+//canvas.drawLine(fromX: 0, fromY: 0, toX: x, toY: 0)
+//canvas.translate(byX: x, byY: 0)
+//canvas.rotate(by: 120)
+
+
+//three times bigger
+
+
+
+
+
+//an example for the portfolio
+//f {canvas = Canvas(width: 400, height: 300)
+   // print(what a nice canvas!)
 
 /*:
  ## Add your code below
